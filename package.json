@@ -1,0 +1,9 @@
+{
+  "name": "@kenrick95/pnpm-testing-using-gh-registry",
+  "version": "0.0.0",
+  "private": true,
+  "main": "src/index.js",
+  "dependencies": {
+    "@kenrick95/pnpm-testing-gh-registry": "1.0.1"
+  }
+}

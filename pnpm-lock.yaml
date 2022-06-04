@@ -1,0 +1,13 @@
+lockfileVersion: 5.3
+
+specifiers:
+  '@kenrick95/pnpm-testing-gh-registry': 1.0.1
+
+dependencies:
+  '@kenrick95/pnpm-testing-gh-registry': 1.0.1
+
+packages:
+
+  /@kenrick95/pnpm-testing-gh-registry/1.0.1:
+    resolution: {integrity: sha512-F19tB2p42VyOSFnuT1p51l6PczN2BgCj9Qqd56lMn9ibniBvpPtNmIpmGs3vbcAq+4punqIs0uuh/frCPe6tpA==, tarball: download/@kenrick95/pnpm-testing-gh-registry/1.0.1/0a8ef7e4e4a5db04594fefefbb7a8b49a7fa5bdff588f1de81d78cb2ce9bc7a2}
+    dev: false
